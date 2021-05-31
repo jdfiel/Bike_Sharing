@@ -7,33 +7,33 @@ The purpose of the analysis is to examine consumer behaviour for the Citi Bike C
 
 ### 1. Trip Duration
 
-![trip_duration]()
+![trip_duration](https://github.com/jdfiel/Bike_Sharing/blob/main/Resources/trip_duration.png)
 
 ### 2. Checkout Times for User
 
-![checkout_for_user]()
+![checkout_for_user](https://github.com/jdfiel/Bike_Sharing/blob/main/Resources/duration_by_gender.png)
 
 ### 3. Trips by Weekday
 
-![trips_by_weekday]()
+![trips_by_weekday](https://github.com/jdfiel/Bike_Sharing/blob/main/Resources/Tripts_by_time.png)
 
 ### 4. Trips by Gender
 
-![trips_by_gender]()
+![trips_by_gender](https://github.com/jdfiel/Bike_Sharing/blob/main/Resources/trips_by_gender.png)
 
 
 ### 5. User Trips by Gender
 
-![user_trips_by_gender]()
+![user_trips_by_gender](https://github.com/jdfiel/Bike_Sharing/blob/main/Resources/user_by_gender.png)
 
 
 ### 6. August Peak Hours
 
-![peak_hours]()
+![peak_hours](https://github.com/jdfiel/Bike_Sharing/blob/main/Resources/peak_hours.png)
 
 ### 7. Customers
 
-![customers]()
+![customers](https://github.com/jdfiel/Bike_Sharing/blob/main/Resources/customer_v_sub.png)
 
 
 ## Summary
